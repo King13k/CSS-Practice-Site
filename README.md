@@ -3,7 +3,7 @@
 ## HTML & CSS Practice
 
 ## A Front End Dev Project by [Kevin King]
-This is a solo project that was built by using HTML and CSS going through thr course on Udemy
+This is a solo project that was built by using HTML and CSS going through the course on Udemy
 
 
 ## Technologies Used:
